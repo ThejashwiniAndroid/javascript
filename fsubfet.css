@@ -1,0 +1,25 @@
+*{
+    background-color:blanchedalmond;
+}
+h1
+{
+    color:red;
+}
+p{
+    color:green;
+}
+.n
+{
+    width: 25%;
+    padding: 10px ;
+    border-radius:6px;
+    margin-top: 8px ;
+    display: inline-block;
+    border: 1px solid;
+    box-sizing: border-box;
+}
+#m,#f{
+    padding:0px;
+    margin-bottom: 10px;
+
+}
